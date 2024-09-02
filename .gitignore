@@ -1,0 +1,27 @@
+# Ignore Jekyll build output
+_site/
+
+# Ignore Jekyll cache and configuration
+.jekyll-cache/
+*.sass-cache/
+
+# Ignore Ruby environment files
+.bundle/
+config.yml
+Gemfile.lock
+
+# Ignore local logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore OS-specific files
+*.DS_Store
+*.AppleDouble
+.LSOverride
+
+# Ignore IDE specific files
+.vscode/
+.idea/
