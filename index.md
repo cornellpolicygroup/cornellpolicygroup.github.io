@@ -7,7 +7,7 @@ layout: default
 
 Welcome to the Cornell Policy Group's Manual. This site serves as a comprehensive guide for all members and collaborators. Here, you'll find detailed information on our processes, standards, and best practices.
 
-## Getting Started
+[## Getting Started
 
 If you're new to the group or need a refresher, start with our [Introduction](/docs/intro.md).
 
@@ -19,7 +19,7 @@ If you're new to the group or need a refresher, start with our [Introduction](/d
 - [Best Practices](/docs/best-practices.md)
 - [Tools and Resources](/docs/tools.md)
 - [FAQ](/docs/faq.md)
-- [Contact Information](/docs/contact.md)
+- [Contact Information](/docs/contact.md)]: #
 
 ## Quick Links
 
