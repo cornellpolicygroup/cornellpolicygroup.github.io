@@ -14,11 +14,6 @@ If you're new to the group or need a refresher, start with our [Introduction](/d
 ## Table of Contents
 
 - [Introduction](/docs/intro.md)
-- [Setup Guide](/docs/setup.md)
-- [Policies and Procedures](/docs/policies.md)
-- [Best Practices](/docs/best-practices.md)
-- [Tools and Resources](/docs/tools.md)
-- [FAQ](/docs/faq.md)
 - [Contact Information](/docs/contact.md)
 
 ## Quick Links

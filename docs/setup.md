@@ -1,0 +1,5 @@
+- [Setup Guide](/docs/setup.md)
+- [Policies and Procedures](/docs/policies.md)
+- [Best Practices](/docs/best-practices.md)
+- [Tools and Resources](/docs/tools.md)
+- [FAQ](/docs/faq.md)
