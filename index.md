@@ -11,6 +11,8 @@ Welcome to the Cornell Policy Group's Manual. This site serves as a comprehensiv
 
 If you're new to the group or need a refresher, start with our [Introduction](/docs/intro.md).
 
+If you're looking for the Applied Policy Lab's Empirical Project Manual, visit [here](https://cornellpolicygroup.github.io/empirical-manual/)
+
 ## Table of Contents
 
 - [Introduction](/docs/intro.md)
@@ -19,6 +21,7 @@ If you're new to the group or need a refresher, start with our [Introduction](/d
 ## Quick Links
 
 - [Cornell Policy Group Website](https://www.cornellpolicygroup.org)
+- [APL Empirical Project Manual](https://cornellpolicygroup.github.io/empirical-manual/)
 - [GitHub Repository](https://github.com/cornellpolicygroup/cornellpolicygroup.github.io)
 
 ## About This Manual
