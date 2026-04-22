@@ -23,6 +23,7 @@ If you're looking for the Applied Policy Lab's Empirical Project Manual, visit [
 - [Cornell Policy Group Website](https://www.cornellpolicygroup.org)
 - [APL Empirical Project Manual](https://cornellpolicygroup.github.io/empirical-manual/)
 - [GitHub Repository](https://github.com/cornellpolicygroup/cornellpolicygroup.github.io)
+- [2026 Policy Symposium Program](/assets/symposium/CPG Policy Symposium - 2026 Program.pdf)
 
 ## About This Manual
 
